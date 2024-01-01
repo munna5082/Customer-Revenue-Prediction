@@ -1,0 +1,9 @@
+Django==4.2.7
+keras==2.12.0
+matplotlib==3.7.1
+numpy==1.23.5
+pandas==1.5.3
+scikit_learn==1.2.2
+seaborn==0.13.1
+tensorflow==2.12.0
+tensorflow_intel==2.12.0
